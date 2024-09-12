@@ -7,7 +7,7 @@ public class Constants {
 	public static final String MIAMI = "Miami";
 	public static final String SAN_FRANCISCO = "San_Francisco";
 	public final static String PARIS = "Paris";
-	public static final String LAS_VEGAS = "Las_Vegas";
+	public static final String LAS_VEGAS = "Las_Vegas_Nevada";
 	
 	public final static String[] SUPPORTED_CITIES = {PARIS, LAS_VEGAS, SAN_FRANCISCO, MIAMI, CORK, BARCELONA};
 	
